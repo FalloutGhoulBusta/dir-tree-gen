@@ -77,8 +77,6 @@ python dirtree.py [directory]
 ## 📝 Output Example
 
 ```
-Generating tree for: /path/to/directory
-------------------------------
 my_project
 ├── src
 │   ├── main.py
@@ -87,8 +85,6 @@ my_project
 ├── tests
 │   └── test_main.py
 └── README.md
-------------------------------
-2 directories, 3 files
 ```
 
 ## 🤝 Contributing
