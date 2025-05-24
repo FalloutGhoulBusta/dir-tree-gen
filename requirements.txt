@@ -1,0 +1,1 @@
+colorama==0.4.6  # For colored terminal output
