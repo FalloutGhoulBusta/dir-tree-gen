@@ -36,7 +36,7 @@ exe = EXE(
     disable_windowed_traceback=False,
     argv_emulation=False,
     target_arch=None,
-    codesign_identity=None,
+    codesign_identity='CN=DirectoryTreeGenerator Code Signing',
     entitlements_file=None,
     icon=None,  # You can add an icon file here if you have one (e.g., 'icon.ico')
 )
