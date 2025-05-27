@@ -9,6 +9,9 @@ develop-eggs/
 dist/
 downloads/
 eggs/
+
+# VS Code Extension
+vscode-dir-tree-gen/
 .eggs/
 lib/
 lib64/
